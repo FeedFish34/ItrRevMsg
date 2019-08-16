@@ -1,0 +1,576 @@
+
+时间：2019-08-16 12:54:26
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 12:54:26
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 12:54:26
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收4353
+
+
+时间：2019-08-16 12:54:26
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 12:54:33
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:4353-512606582
+
+
+时间：2019-08-16 12:54:33
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 12:54:33
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 12:54:33
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:15:00
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Open   行数：174
+标题：
+附加信息：
+打开串口
+
+
+时间：2019-08-16 13:16:46
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:16:46
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:16:47
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:16:47
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收174
+
+
+时间：2019-08-16 13:16:47
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:16:47
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:16:47
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:16:47
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:174-534775649
+
+
+时间：2019-08-16 13:16:47
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:41
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:41
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:41
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:41
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收171
+
+
+时间：2019-08-16 13:17:41
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:42
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:42
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:171-1564463152
+
+
+时间：2019-08-16 13:17:42
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:42
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:17:42
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:28:22
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Open   行数：174
+标题：
+附加信息：
+打开串口
+
+
+时间：2019-08-16 13:29:24
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:29:24
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:29:24
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:29:25
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收33435147
+
+
+时间：2019-08-16 13:29:25
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:29:25
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:29:25
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:33435147-2019373263
+
+
+时间：2019-08-16 13:29:25
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:29:25
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收7
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:7-1329356494
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:09
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收214353474
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:214353474-1231883100
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:31:39
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:12
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:12
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:12
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:12
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收034353174
+
+
+时间：2019-08-16 13:33:12
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:12
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:13
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:034353174-1696145206
+
+
+时间：2019-08-16 13:33:13
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:13
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:43
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:44
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:44
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：comm_DataReceived_Kim   行数：288
+标题：
+附加信息：
+接收4353
+
+
+时间：2019-08-16 13:33:44
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：SendACK   行数：500
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:45
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+
+
+时间：2019-08-16 13:33:45
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:4353-1697054734
+
+
+时间：2019-08-16 13:33:45
+进程：ItrRecMsg.vshost.exe
+模块：BiuSerialPort   方法：Send   行数：212
+标题：
+附加信息：
+发送:
+

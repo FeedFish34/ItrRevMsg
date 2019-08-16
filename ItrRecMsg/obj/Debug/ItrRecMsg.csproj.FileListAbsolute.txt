@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\bin\Debug\ItrRecMsg.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\bin\Debug\ItrRecMsg.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\bin\Debug\ItrRecMsg.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\obj\Debug\ItrRecMsg.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\obj\Debug\ItrRecMsg.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\obj\Debug\ItrRecMsg.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\obj\Debug\ItrRecMsg.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\obj\Debug\ItrRecMsg.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ItrRecMsg\ItrRecMsg\obj\Debug\ItrRecMsg.pdb
