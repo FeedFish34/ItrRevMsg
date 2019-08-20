@@ -12,7 +12,7 @@ namespace ItrRecMsg
 {
     public partial class Form1 : Form
     {
-        OCRSerialDevice ocr = null;
+        BiuTCPServerPort port = null;
         public Form1()
         {
             InitializeComponent();
@@ -20,23 +20,26 @@ namespace ItrRecMsg
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ocr = new OCRSerialDevice();
-            ocr.StartWorking();
+            string IP = txtIP.Text;
+            int Port = Convert.ToInt32(txtPort.Text);
+            port = new BiuTCPServerPort(IP, Port);
+            port.SpcialItrID = "ASTM";
+            port.Open();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(ocr != null)
+            if(port != null)
             {
-                ocr.StartWorking();
+                port.Open();
             }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (ocr != null)
+            if (port != null)
             {
-                ocr.StopWork();
+                port.Close();
             }
         }
     }

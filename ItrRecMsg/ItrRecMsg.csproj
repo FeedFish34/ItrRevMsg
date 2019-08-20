@@ -80,6 +80,7 @@
     <Compile Include="串口通讯数据类\BiuDevice.cs" />
     <Compile Include="串口通讯数据类\BiuPort.cs" />
     <Compile Include="串口通讯数据类\BiuSerialPort.cs" />
+    <Compile Include="串口通讯数据类\BiuTCPServerPort.cs" />
     <Compile Include="串口通讯数据类\FileManager.cs" />
     <Compile Include="串口通讯数据类\Handler.cs" />
     <Compile Include="串口通讯数据类\IAdapterContainer.cs" />

@@ -98,11 +98,10 @@ namespace ItrRecMsg
                 TureMessage.Split(new char[] { ASTMCommon.cLF_10, ASTMCommon.cCR_13 }, StringSplitOptions.RemoveEmptyEntries);
             string sampleId = str[0].Split('-')[0];
             string result = "";
-            ASTMDAO dao = new ASTMDAO();
-            dao.UpdateOrInsertASTM(sampleId,result);
-
             Random random = new Random();
             result = random.Next().ToString();
+            ASTMDAO dao = new ASTMDAO();
+            dao.UpdateOrInsertASTM(sampleId,result);
 
             AnswerList.Add(ASTMCommon.cSTX_2.ToString() + sampleId+"-"+ result + ASTMCommon.cETX_3.ToString());
             AnswerList.Add(ASTMCommon.cEOT_4.ToString());
